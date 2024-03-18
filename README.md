@@ -15,5 +15,5 @@ ASP.NET MVC
 Entity Framework
 Bootstrap
 jQuery
-Getting Started:
+
 
