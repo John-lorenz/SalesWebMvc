@@ -14,6 +14,6 @@ Technologies Used:
 ASP.NET MVC
 Entity Framework
 Bootstrap
-jQuery
+javaScript
 
 
